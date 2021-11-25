@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://annu:annu@task1.gqpwj.mongodb.net/Task1?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
